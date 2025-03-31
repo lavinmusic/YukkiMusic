@@ -1,0 +1,103 @@
+# Azərbaycan Dilində Komandalar
+
+# Bot Komandaları
+PING_COMMAND : ["ping"]
+PRIVACY_COMMAND : ["gizlilik"]
+START_COMMAND : ["baslat"]
+HELP_COMMAND : ["komek", "yardım"]
+SETTINGS_COMMAND : ["ayarlar", "tənzimləmələr"]
+RELOAD_COMMAND : ["admincache", "yenile"]
+GSTATS_COMMAND : ["gstatistika"]
+STATS_COMMAND : ["statistika"]
+LANGUAGE_COMMAND : ["dil", "dillər"]
+
+# Oynatma Komandaları
+PLAY_COMMAND : ["oynat", "çaldır", "başlat"]
+PLAYMODE_COMMAND : ["oynatmamodu"]
+CHANNELPLAY_COMMAND : ["kanaloynat"]
+STREAM_COMMAND : ["axın", "canlıaxın"]
+
+# Çalma Siyahısı Komandaları
+PLAYLIST_COMMAND : ["çalma siyahısı"]
+PLAY_PLAYLIST_COMMAND : ["siyahınıoynat", "çalma siyahısını çaldır"]
+DELETE_PLAYLIST_COMMAND : ["siyahınısil"]
+ADD_PLAYLIST_COMMAND : ["siyahıyəəlavəet"]
+
+# Alətlər
+QUEUE_COMMAND : ["növbə", "sira"]
+SONG_COMMAND : ["mahnı", "musiqi", "endır"]
+LYRICS_COMMAND : ["mahnısozleri"]
+
+# İdarəetmə Komandaları
+AUTH_COMMAND : ["icazəver", "yetki"]
+UNAUTH_COMMAND : ["icazəal", "yetkisil"]
+AUTHUSERS_COMMAND : ["icazəlilər"]
+PAUSE_COMMAND : ["fasilə", "dayandır"]
+RESUME_COMMAND : ["davamet", "bərpaet"]
+MUTE_COMMAND : ["səssiz", "səssizləşdir"]
+UNMUTE_COMMAND : ["səssizikaldır", "səsləndir"]
+STOP_COMMAND : ["dayandır", "bitir"]
+SKIP_COMMAND : ["keç", "ötür"]
+SHUFFLE_COMMAND : ["qarışdır"]
+LOOP_COMMAND : ["təkrar", "dövri"]
+SEEK_COMMAND : ["irəlilə", "sürüşdür"]
+SEEK_BACK_COMMAND : ["geriyəget", "irəliyəget"]
+REBOOT_COMMAND : ["yenidənbaşlat"]
+
+# Sudo İstifadəçi Şikayətləri
+
+# sudo komandası
+ADDSUDO_COMMAND : ["sudoəlavəet"]
+DELSUDO_COMMAND : ["sudosil"]
+SUDOUSERS_COMMAND : ["sudolist"]
+
+# Yayım
+BROADCAST_COMMAND : ["elan", "duyuru"]
+
+# Qara siyahıya salma
+BLACKLISTCHAT_COMMAND : ["qrupqadağa"]
+WHITELISTCHAT_COMMAND : ["qadağakaldır"]
+BLACKLISTEDCHAT_COMMAND : ["qadağalıqruplar"]
+
+# Video Zəng Komandaları
+VIDEOLIMIT_COMMAND : ["video_limit_qoy"]
+VIDEOMODE_COMMAND : ["videorejimi"]
+
+# Texniki Xidmət
+MAINTENANCE_COMMAND : ["təmirrejimi", "təmir"]
+LOGGER_COMMAND : ["jurnal"]
+
+# Heroku
+GETLOG_COMMAND : ["log"]
+GETVAR_COMMAND : ["dəyişəni_götür"]
+DELVAR_COMMAND : ["dəyişəni_sil"]
+SETVAR_COMMAND : ["dəyişəni_qoy"]
+USAGE_COMMAND : ["istifadə"]
+
+# Əsas Bot Komandaları
+UPDATE_COMMAND : ["yenilə"]
+RESTART_COMMAND : ["restart"]
+AUTOEND_COMMAND : ["autoend"]
+
+# Xüsusi Bot Rejimi
+AUTHORIZE_COMMAND : ["icazəver"]
+UNAUTHORIZE_COMMAND : ["icazəni_ləğv_et"]
+AUTHORIZED_COMMAND : ["icazəlilər"]
+
+# İstifadəçiləri Bloklama Komandası
+BLOCK_COMMAND : ["blokla"]
+UNBLOCK_COMMAND : ["blokukaldır"]
+BLOCKED_COMMAND : ["bloklanmışlar"]
+
+# Sürət Testi
+SPEEDTEST_COMMAND : ["sürəttesti"]
+
+# Səsli Söhbət Komandaları
+ACTIVEVC_COMMAND : ["aktivsəs"]
+ACTIVEVIDEO_COMMAND : ["aktivvideo"]
+AC_COMMAND: ["aç"]
+
+# Qlobal Ban Komandaları
+GBAN_COMMAND : ["gban"]
+UNGBAN_COMMAND : ["ungban"]
+GBANNED_COMMAND : ["gbanlanmışistifadəçilər"]
