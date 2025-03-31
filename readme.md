@@ -1,6 +1,6 @@
 # 🎵 **YukkiMusic** 🎶
 
-[**YukkiMusic**](https://github.com/TheTeamVivek/YukkiMusic) is an enhanced version of the original [**YukkiMusicBot**](https://github.com/lavinmusic/YukkiMusic), optimized for high-quality music streaming in Telegram voice chats. Built with Python and Pyrogram. 🚀
+[**YukkiMusic**](https://github.com/lavinmusic/YukkiMusic/) is an enhanced version of the original [**YukkiMusicBot**](https://github.com/lavinmusic/YukkiMusic), optimized for high-quality music streaming in Telegram voice chats. Built with Python and Pyrogram. 🚀
 
 ## ⭐ Support the Original
 If you're using or forking this project, please show your support by starring the original repo:
@@ -54,7 +54,7 @@ Need help setting up? Check out our detailed configuration guide: [**Configurati
 
 We're here to support you through multiple channels:
 
-- [**📝 Open a GitHub Issue**](https://github.com/TheTeamVivek/YukkiMusic/issues/new?assignees=&labels=question&title=support%3A+&body=%23+Support+Question)
+- [**📝 Open a GitHub Issue**](https://github.com/lavinmusic/YukkiMusic/issues/new?assignees=&labels=question&title=support%3A+&body=%23+Support+Question)
 
 - [**💬 Contact Us**](https://t.me/TheTeamVk)
 
@@ -71,7 +71,7 @@ Love YukkiMusic? Here's how you can help:
 
 - 📢 Share your experience on [**Dev.to**](https://dev.to/), [**Medium**](https://medium.com/), or your **personal blog.**
 
-Together, we can make [**YukkiMusic**](https://github.com/TheTeamVivek/YukkiMusic) and [**YukkiMusicBot**](https://github.com/lavinmusic/YukkiMusic) even better!
+Together, we can make [**YukkiMusic**](https://github.com/lavinmusic/YukkiMusic/) and [**YukkiMusicBot**](https://github.com/lavinmusic/YukkiMusic) even better!
 
 ## 🙏 Special Thanks
 
