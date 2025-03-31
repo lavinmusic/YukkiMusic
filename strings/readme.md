@@ -5,7 +5,7 @@
 | Code | Language | Contributor |
 |------|----------|-------------|
 | en   | English  | Thanks to [TeamYukki](https://t.me/TeamYukki) |
-| az   | azerbaycan    | Thanks to [TeamYukki](https://t.me/TeamYukki) |
+| az   | Azerbaycan    | Thanks to [TeamYukki](https://t.me/TeamYukki) |
 | ar   | Arabic   | Thanks to [Mustafa](https://t.me/tr_4z) |
 | tr   | Turkish  | Thanks to [TeamYukki](https://t.me/TeamYukki) |
 | as   | Assamese | Thanks to [Mungnem Chiranji](https://t.me/ChiranjibKoch) |
